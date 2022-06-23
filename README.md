@@ -1,3 +1,6 @@
+## Hi! I'm Inazuma110
+For more information, please click [here](https://inazuma110.github.io/). 
+
 <p align="left">
   <a href="https://github.com/Inazuma110/Inazuma110/">
     <img src="https://komarev.com/ghpvc/?username=Inazuma110" alt="Inazuma110" />
