@@ -21,7 +21,7 @@ For more information, please click [here](https://inazuma110.github.io/).
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Inazuma110&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inazuma110&layout=compact&langs_count=6&hide=Jupyter%20notebook,makefile,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Inazuma110&layout=compact&langs_count=6&hide=Jupyter%20notebook,html,blade&exclude_repo=atcoder)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Inazuma110)](https://github.com/ryo-ma/github-profile-trophy)
   
