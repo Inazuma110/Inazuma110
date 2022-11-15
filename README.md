@@ -1,5 +1,6 @@
 ## Hi! I'm Inazuma110
 For more information, please click [here](https://inazuma110.github.io/). 
+Contact: megaindo1[at]gmail.com
 
 <p align="left">
   <a href="https://github.com/Inazuma110/Inazuma110/">
